@@ -1,5 +1,8 @@
 package main
 
-func main() {
+import "fmt"
 
+func main() {
+	fmt.Println("Benar = ", true)
+	fmt.Println("Salah = ", false)
 }
